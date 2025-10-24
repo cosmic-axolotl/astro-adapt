@@ -22,11 +22,17 @@ The goal is to create a **personalized, inclusive learning experience** that hel
 ## 🧠 Project Structure
 
 📦 adaptive-astronomy-site
+
 ├── frontend/ # User interface (HTML, CSS, JS)
+
 ├── backend/ # Content adaptation logic & database
+
 ├── data/ # Adapted astronomy content for each user profile
+
 ├── assets/ # Images, icons, and illustrations
+
 ├── README.md
+
 └── requirements.txt # Python dependencies (for backend)
 
 
