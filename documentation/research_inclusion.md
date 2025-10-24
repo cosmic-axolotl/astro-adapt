@@ -1,7 +1,7 @@
 # ♿ Inclusive and Adaptive Design Research
 
 ## References
-- [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
+- [Inclusive Design Principles](https://inclusivedesignprinciples.info/)
 - [W3C WAI-ARIA Guidelines](https://www.w3.org/WAI/)
 
 ## Decisions
