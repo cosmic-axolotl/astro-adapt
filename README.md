@@ -39,7 +39,7 @@ The goal is to create a **personalized, inclusive learning experience** that hel
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies (still to be defined, but at first some, or all, of these
 
 | Area | Tools |
 |------|-------|
