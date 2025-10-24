@@ -47,7 +47,7 @@ The goal is to create a **personalized, inclusive learning experience** that hel
 | **Backend** | Python (Flask / FastAPI) or Node.js |
 | **Database** | SQLite / PostgreSQL |
 | **Version Control** | Git + GitHub |
-| **Design & UX** | Figma / Canva / Krita (mockups and visuals) |
+| **Design & UX** | Canva / Procreate / Photoshop (mockups and visuals) |
 
 ---
 
