@@ -125,5 +125,5 @@ Developed by **[Amanda Cabral](https://github.com/cosmic-axolotl)**
 💫 Undergraduate Researcher in Astronomy — *Valongo Observatory / UFRJ*  
 📚 Focused on inclusive and accessible science communication (not fully into it)
 
-
+![Phase 1 — Completed](https://img.shields.io/badge/Phase%201%20—%20Completed-28a745?style=flat-square&logoColor=white)
 ![Phase 2 - In Progress](https://img.shields.io/badge/Phase%202-In%20Progress-yellow)
