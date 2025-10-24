@@ -27,6 +27,8 @@ The goal is to create a **personalized, inclusive learning experience** that hel
 
 ├── backend/ # Content adaptation logic & database
 
+├── documentation/ # documentation for architecture used and design system
+
 ├── data/ # Adapted astronomy content for each user profile
 
 ├── assets/ # Images, icons, and illustrations
