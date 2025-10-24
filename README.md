@@ -21,7 +21,7 @@ The goal is to create a **personalized, inclusive learning experience** that hel
 
 ## 🧠 Project Structure
 
-📦 adaptive-astronomy-site
+📦 astro-adapt
 
 ├── frontend/ # User interface (HTML, CSS, JS)
 
