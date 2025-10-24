@@ -1,0 +1,12 @@
+{
+  "infantil": {
+    "faixa_etaria": "6-12",
+    "linguagem": "histórias e metáforas simples",
+    "acessibilidade": ["leitura em voz alta", "cores vivas"]
+  },
+  "adulto_basico": {
+    "faixa_etaria": "30-60",
+    "linguagem": "didática e sem jargões",
+    "acessibilidade": ["alto contraste", "tamanho de fonte ajustável"]
+  }
+}
