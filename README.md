@@ -124,3 +124,6 @@ See the [LICENSE](./LICENSE) file for more details.
 Developed by **[Amanda Cabral](https://github.com/cosmic-axolotl)**  
 💫 Undergraduate Researcher in Astronomy — *Valongo Observatory / UFRJ*  
 📚 Focused on inclusive and accessible science communication (not fully into it)
+
+
+![Phase 2 - In Progress](https://img.shields.io/badge/Phase%202-In%20Progress-yellow)
