@@ -62,13 +62,45 @@ The goal is to create a **personalized, inclusive learning experience** that hel
 
 ---
 
-## 🌠 Roadmap
+## 🧭 Roadmap Overview
 
-- [ ] Define overall architecture (frontend + backend).  
-- [ ] Build database of adaptive astronomy texts.  
-- [ ] Implement questionnaire and dynamic routing.  
-- [ ] Add accessibility and assistive features.  
-- [ ] Deploy a **beta version** on GitHub Pages or Render.
+### 🚀 Phase 1 — Concept & Planning
+- [x] Define project scope and educational goals  
+- [x] Research inclusive and adaptive design strategies  
+- [x] Identify user profiles and accessibility needs  
+
+### 💻 Phase 2 — Frontend Prototype
+- [ ] Build initial UI with React + TailwindCSS  
+- [ ] Create landing, profile, and adaptive content pages  
+- [ ] Implement responsive and accessible layout  
+
+### ⚙️ Phase 3 — Backend & API
+- [ ] Develop FastAPI backend to handle user profiles  
+- [ ] Implement endpoints for adaptive content retrieval  
+- [ ] Connect frontend form to backend logic  
+
+### 🧠 Phase 4 — Database Integration
+- [ ] Set up SQLite or PostgreSQL database  
+- [ ] Define content and profile models (SQLAlchemy)  
+- [ ] Return dynamic data through API  
+
+### ♿ Phase 5 — Accessibility & Inclusion
+- [ ] Add WAI-ARIA support and accessibility modes  
+- [ ] Implement text-to-speech narration  
+- [ ] Plan for Libras (Brazilian Sign Language) support  
+
+### ☁️ Phase 6 — Deployment & Documentation
+- [ ] Deploy frontend (Vercel) and backend (Render/Railway)  
+- [ ] Write full documentation under `/docs`  
+- [ ] Add live demo and contribution guide  
+
+---
+
+### 🧩 Future Enhancements
+- [ ] Gamified learning features (quizzes, achievements)  
+- [ ] Multilingual support (PT/EN/ES)  
+- [ ] NLP-based text simplification  
+- [ ] Interactive astronomy visualizations (Three.js, NASA APIs)
 
 ---
 
@@ -91,4 +123,4 @@ See the [LICENSE](./LICENSE) file for more details.
 
 Developed by **[Amanda Cabral](https://github.com/cosmic-axolotl)**  
 💫 Undergraduate Researcher in Astronomy — *Valongo Observatory / UFRJ*  
-📚 Focused on inclusive and accessible science communication.
+📚 Focused on inclusive and accessible science communication (not fully into it)
